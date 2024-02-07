@@ -1,0 +1,75 @@
+{"products": [
+  {
+    "id": 1,
+    "name": "Jana",
+    "price": 100,
+    "color": "Green",
+    "category": "Dress",
+    "image": "/images/jumpsuit.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gucci",
+    "price": 500,
+    "color": "white",
+    "category": "Jumpsuit",
+    "image": "/images/jumpsuit.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Debby",
+    "price": 400,
+    "color": "Black",
+    "category": "Top",
+    "image": "/images/top2.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Tutu",
+    "price": 150,
+    "color": "Black",
+    "category": "Skirt",
+    "image": "/images/skirt2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "juju",
+    "price": 300,
+    "color": "Green",
+    "category": "Dress",
+    "image": "/images/dress3.jpg"
+  },
+  {
+    "id": 6,
+    "name": "YAS",
+    "price": 200,
+    "color": "Black",
+    "category": "Dress",
+    "image": "/images/dress3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Blue Elegance",
+    "price": 300,
+    "color": "Black",
+    "category": "Top",
+    "image": "/images/top2.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Casual Comfort",
+    "price": 150,
+    "color": "Black",
+    "category": "Dress",
+    "image": "/images/57050268_99_D2.avif"
+  },
+  {
+    "id": 9,
+    "name": "Summer Vibes",
+    "price": 50,
+    "color": "Red",
+    "category": "Top",
+    "image": "/images/top1.jpeg"
+  }
+]
+}
